@@ -1,0 +1,163 @@
+{
+  "vnexpress": {
+    "base_url": "https://vnexpress.net",
+    "tags_js": true,
+    "categories": {
+      "thoi-su":    "https://vnexpress.net/thoi-su",
+      "du-lich":    "https://vnexpress.net/du-lich",
+      "kinh-doanh": "https://vnexpress.net/kinh-doanh",
+      "cong-nghe":  "https://vnexpress.net/so-hoa",
+      "giai-tri":   "https://vnexpress.net/giai-tri",
+      "suc-khoe":   "https://vnexpress.net/suc-khoe"
+    },
+    "selectors": {
+      "article_links": "h3.title-news a, h2.title-news a",
+      "title":         "h1.title-detail",
+      "description":   "p.description",
+      "content":       "article.fck_detail",
+      "thumbnail":     "meta[property='og:image']",
+      "category":      "ul.breadcrumb li:nth-child(2) a",
+      "tags":          "",
+      "date":          "span.date",
+      "remove":        "div.box-tinlienquan, script, style"
+    }
+  },
+
+  "tuoitre": {
+    "base_url": "https://tuoitre.vn",
+    "tags_js": true,
+    "categories": {
+      "thoi-su":    "https://tuoitre.vn/thoi-su.htm",
+      "the-gioi":   "https://tuoitre.vn/the-gioi.htm",
+      "kinh-doanh": "https://tuoitre.vn/kinh-doanh.htm",
+      "du-lich":    "https://tuoitre.vn/du-lich.htm",
+      "the-thao":   "https://tuoitre.vn/the-thao.htm",
+      "suc-khoe":   "https://tuoitre.vn/suc-khoe.htm"
+    },
+    "selectors": {
+      "article_links": "h3.title-name a, a.title-name",
+      "title":         "h1.detail-title",
+      "description":   "h2.detail-sapo",
+      "content":       "div.detail-content",
+      "thumbnail":     "meta[property='og:image']",
+      "category":      "div.detail-cate a",
+      "tags":          "",
+      "date":          "div[data-role='publishdate']",
+      "remove":        "div.relate-news, script, style"
+    }
+  },
+
+  "thanhnien": {
+    "base_url": "https://thanhnien.vn",
+    "tags_js": false,
+    "categories": {
+      "thoi-su":    "https://thanhnien.vn/thoi-su.htm",
+      "the-gioi":   "https://thanhnien.vn/the-gioi.htm",
+      "kinh-te":    "https://thanhnien.vn/kinh-te.htm",
+      "du-lich":    "https://thanhnien.vn/du-lich.htm",
+      "the-thao":   "https://thanhnien.vn/the-thao.htm",
+      "suc-khoe":   "https://thanhnien.vn/suc-khoe.htm"
+    },
+    "selectors": {
+      "article_links": "h3.article-title a, h2.article-title a",
+      "title":         "h1.detail-title",
+      "description":   "h2.detail-sapo",
+      "content":       "div.detail-content",
+      "thumbnail":     "meta[property='og:image']",
+      "category":      "div.detail-cate a",
+      "tags":          "meta[name='keywords']",
+      "date":          "div[data-role='publishdate']",
+      "remove":        "div.relate-news, script, style"
+    }
+  },
+
+  "tienphong": {
+    "base_url": "https://tienphong.vn",
+    "tags_js": true,
+    "categories": {
+      "xa-hoi":   "https://tienphong.vn/xa-hoi",
+      "kinh-te":  "https://tienphong.vn/kinh-te",
+      "du-lich":  "https://tienphong.vn/du-lich",
+      "the-thao": "https://tienphong.vn/the-thao",
+      "suc-khoe": "https://tienphong.vn/suc-khoe"
+    },
+    "selectors": {
+      "article_links": "article h2 a",
+      "title":         "h1.article__title",
+      "description":   "div.article__sapo",
+      "content":       "div.article__body",
+      "thumbnail":     "meta[property='og:image']",
+      "category":      "",
+      "tags":          "",
+      "date":          "time[datetime]",
+      "remove":        "script, style"
+    }
+  },
+
+  "dantri": {
+    "base_url": "https://dantri.com.vn",
+    "tags_js": false,
+    "categories": {
+      "xa-hoi":     "https://dantri.com.vn/xa-hoi.htm",
+      "du-lich":    "https://dantri.com.vn/du-lich.htm",
+      "kinh-doanh": "https://dantri.com.vn/kinh-doanh.htm",
+      "the-gioi":   "https://dantri.com.vn/the-gioi.htm",
+      "suc-khoe":   "https://dantri.com.vn/suc-khoe.htm"
+    },
+    "selectors": {
+      "article_links": "article h3 a",
+      "title":         "h1",
+      "description":   "",
+      "content":       "",
+      "thumbnail":     "meta[property='og:image']",
+      "category":      "",
+      "tags":          "meta[name='keywords']",
+      "date":          "time[datetime]",
+      "remove":        "script, style"
+    }
+  },
+
+  "znews": {
+    "base_url": "https://znews.vn",
+    "tags_js": false,
+    "categories": {
+      "thoi-su":    "https://znews.vn/thoi-su.html",
+      "du-lich":    "https://znews.vn/du-lich.html",
+      "kinh-doanh": "https://znews.vn/kinh-doanh.html",
+      "the-thao":   "https://znews.vn/the-thao.html"
+    },
+    "selectors": {
+      "article_links": "h3.article-title a",
+      "title":         "h1",
+      "description":   "",
+      "content":       "",
+      "thumbnail":     "meta[property='og:image']",
+      "category":      "",
+      "tags":          "meta[name='keywords']",
+      "date":          "span.date",
+      "remove":        "script, style"
+    }
+  },
+
+  "cafef": {
+    "base_url": "https://cafef.vn",
+    "tags_js": true,
+    "categories": {
+      "bat-dong-san": "https://cafef.vn/bat-dong-san.chn",
+      "doanh-nghiep": "https://cafef.vn/doanh-nghiep.chn",
+      "vi-mo":        "https://cafef.vn/vi-mo-dau-tu.chn",
+      "thi-truong":   "https://cafef.vn/thi-truong-chung-khoan.chn"
+    },
+    "selectors": {
+      "article_links": "h3.title a, h2.title a",
+      "title":         "h1.title",
+      "description":   "",
+      "content":       "div.detail-content",
+      "thumbnail":     "meta[property='og:image']",
+      "category":      "div[class*='category'] a",
+      "tags":          "",
+      "date":          "span[class*='date']",
+      "remove":        "script, style"
+    }
+  }
+}

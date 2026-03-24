@@ -1,0 +1,9 @@
+pymysql     # MySQL database connector for Python
+beautifulsoup4 # Library for parsing HTML and XML documents
+underthesea # Vietnamese natural language processing toolkit
+requests # Library for making HTTP requests
+rank-bm25 # Library for BM25 ranking algorithm
+google-genai # Google Gemini API client library for Python
+python-dotenv # Library for loading environment variables from a .env file
+fastapi # FastAPI is a modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
+uvicorn # FastAPI is a modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.

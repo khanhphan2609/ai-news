@@ -1,0 +1,298 @@
+[
+  {
+    "question": "Tạp chí nào xếp Việt Nam vào nhóm quốc gia đẹp nhất và Việt Nam đứng vị trí bao nhiêu?",
+    "reference": "Tạp chí du lịch Condé Nast Traveler xếp Việt Nam ở vị trí 17 trong danh sách 28 quốc gia đẹp nhất thế giới. Tạp chí ca ngợi Việt Nam là thiên đường cho những người yêu thiên nhiên và trải nghiệm ngoài trời, đặc biệt nhấn mạnh vẻ đẹp của vịnh Hạ Long và Hà Giang.",
+    "prediction": "Tạp chí Condé Nast Traveler là tạp chí du lịch nổi tiếng đã xếp Việt Nam vào nhóm quốc gia đẹp nhất thế giới. Theo đó, Việt Nam đứng ở vị trí thứ 17 trong danh sách 28 quốc gia đẹp nhất thế giới.\n\nLink: https://news.phuquocandyou.com/ly-do-viet-nam-lot-top-dep-nhat-the-gioi/",
+    "rouge_l": 0.387,
+    "sem_sim": 0.917,
+    "flag": "✓"
+  },
+  {
+    "question": "Đơn vị nào từ Singapore sẽ tham gia vào việc phát triển sân bay Phú Quốc và họ sẽ làm gì?",
+    "reference": "Changi Airports International (CAI), đơn vị thuộc Changi Airport Group Singapore, sẽ hợp tác với Sun Group trong phát triển và vận hành sân bay Phú Quốc. CAI sẽ tư vấn thiết kế, định hình mô hình vận hành tổng thể, phát triển mạng bay quốc tế và xây dựng hệ sinh thái thương mại phi hàng không gồm bán lẻ, ẩm thực và hàng hóa miễn thuế.",
+    "prediction": "Changi Airports International (CAI), đơn vị trực thuộc Changi Airport Group tại Singapore, sẽ tham gia vào việc phát triển sân bay Phú Quốc. Theo thỏa thuận, CAI sẽ đồng hành với Sun Group trong quá trình phát triển và vận hành sân bay Phú Quốc, bao gồm việc tư vấn thiết kế, phát triển mô hình vận hành tổng thể, chuẩn bị hệ thống khai thác, quản lý và nâng cao hiệu quả hoạt động sau khi đi vào vận hành.\n\n[1] Sun Group hợp tác Changi Airports International vận hành sân bay Phú Quốc | https://news.phuquocandyou.com/sun-group-hop-tac-changi-airports-international-van-hanh-san-bay-phu-quoc/",
+    "rouge_l": 0.483,
+    "sem_sim": 0.958,
+    "flag": "✓"
+  },
+  {
+    "question": "Sau khi mở rộng, sân bay Phú Quốc có thể đón bao nhiêu hành khách mỗi năm và trang bị những công nghệ gì?",
+    "reference": "Sau mở rộng, sân bay Phú Quốc dự kiến đạt công suất 24 triệu hành khách/năm, có thể mở rộng lên 50 triệu hành khách/năm trong dài hạn. Nhà ga T2 sẽ tích hợp công nghệ sinh trắc học không chạm, hệ thống xử lý hành lý tự động ICS và mô hình tổng quản lý sân bay (TAM).",
+    "prediction": "Tôi không có thông tin về số lượng hành khách mà sân bay Phú Quốc có thể đón mỗi năm sau khi mở rộng. Tuy nhiên, theo thông tin từ bài viết [1], sân bay Phú Quốc sẽ vận hành như sân bay Changi Singapore và có thể trở thành mô hình \"sân bay điểm đến\" đầu tiên tại Việt Nam.\n\nVề công nghệ, tôi không có thông tin cụ thể, nhưng có thể dự đoán rằng sân bay Phú Quốc sẽ trang bị công nghệ hiện đại như tự động hóa quy trình check-in, sử dụng camera và trí tuệ nhân tạo để giám sát an ninh, cũng như hệ thống thông tin giải trí và dịch vụ cho hành khách.\n\nĐể biết thêm thông tin chi tiết, bạn có thể tham khảo bài viết sau: https://news.phuquocandyou.com/san-bay-phu-quoc-se-van-hanh-nhu-changi-singapore/",
+    "rouge_l": 0.278,
+    "sem_sim": 0.676,
+    "flag": "✓"
+  },
+  {
+    "question": "Nhiếp ảnh gia người Anh đã sống ở Việt Nam bao lâu và dự án tìm lại nhân vật trong ảnh cũ của ông kết quả ra sao?",
+    "reference": "Andy Soloman sống tại Hà Nội 7 năm từ 1992 đến 1999, làm việc cho nhiều tờ báo và tạp chí quốc tế. Dự án 'Continuum' khởi động từ năm 2020 và đến cuối năm 2025, ông đã tìm lại thành công 57 người trong các bức ảnh đen trắng chụp hơn 30 năm trước, kết quả được trưng bày trong triển lãm cá nhân tại Hà Nội, Phú Quốc và TP HCM.",
+    "prediction": "Nhiếp ảnh gia người Anh, Andy Solomon, đã sống ở Việt Nam trong 7 năm, từ năm 1992 đến 1999. Ông đã kết hôn với một phụ nữ Việt và có hai con trai tại Hà Nội. Dự án tìm lại nhân vật trong ảnh cũ của ông vẫn đang tiếp tục, nhưng không có thông tin cụ thể về kết quả cuối cùng.\n\n[Mời bạn đọc tham khảo thêm tại: https://news.phuquocandyou.com/khach-anh-xuyen-viet-tim-nguoi-trong-anh-chup-hon-30-nam-truoc/]",
+    "rouge_l": 0.384,
+    "sem_sim": 0.626,
+    "flag": "✓"
+  },
+  {
+    "question": "Vì sao ngày càng nhiều người Việt chuyển sang đi đường bộ thay vì bay nội địa trong dịp lễ năm nay?",
+    "reference": "Giá vé máy bay nội địa tăng cao, hiện chiếm tới 50-70% giá tour, khiến nhiều gia đình cân nhắc lại. Bên cạnh đó, nguy cơ thiếu hụt nhiên liệu bay Jet A-1 do xung đột tại Trung Đông đẩy chi phí khai thác của các hãng hàng không tăng đáng kể, buộc giá tour đường bay phải tăng theo.",
+    "prediction": "Ngày càng nhiều người Việt chuyển sang đi đường bộ thay vì bay nội địa trong dịp lễ năm nay là vì kỳ nghỉ giỗ tổ và 30/4-1/5 cách nhau hai ngày, tạo điều kiện cho khách việt thực hiện các chuyến đi dài ngày, thậm chí lên đến 9 ngày nếu sắp xếp nghỉ bù.\n\nTheo Phó Giám đốc Công ty du lịch Nam Thanh Travel Đào Mai Dung, lượng khách đặt tour đến thời điểm hiện tại ghi nhận mức tăng 25-30% so với cùng kỳ năm ngoái và xu hướng du lịch của khách Việt dịp này có sự dịch chuyển rõ rệt khi tour quốc tế chiếm ưu thế với khoảng 65% lượng đặt.",
+    "rouge_l": 0.244,
+    "sem_sim": 0.481,
+    "flag": "⚠"
+  },
+  {
+    "question": "Trong số các đô thị biển lớn của Việt Nam, địa phương nào đón nhiều khách nhất năm 2025 và đâu là mô hình phát triển đang được ưu tiên?",
+    "reference": "Đà Nẵng dẫn đầu với khoảng 17,3 triệu lượt khách lưu trú năm 2025, tiếp theo là Phú Quốc với 7,5-7,6 triệu lượt. Mô hình được nhiều địa phương ưu tiên là đô thị du lịch biển tích hợp, kết hợp nghỉ dưỡng, giải trí, thương mại, sự kiện và kinh tế đêm trong cùng một hệ sinh thái.",
+    "prediction": "\"Xin lỗi, tôi không có thông tin về địa phương nào đón nhiều khách nhất năm 2025 trong số các đô thị biển lớn của Việt Nam. Tuy nhiên, theo thông tin trên Phú Quốc và Bạn, Phú Quốc tiếp tục khẳng định vị thế là điểm đến du lịch hàng đầu của Việt Nam khi ghi nhận hơn 1 triệu lượt khách trong mùa du lịch hè năm 2026. Để biết thông tin cập nhật nhất về ngành du lịch Việt Nam, vui lòng liên hệ với cơ quan du lịch chính thức hoặc tham khảo các nguồn thông tin uy tín khác.\"\n\n Link: https://news.phuquocandyou.com/phu-quoc-don-hon-1-trieu-luot-khach-trong-mua-du-lich-he-2026/",
+    "rouge_l": 0.257,
+    "sem_sim": 0.657,
+    "flag": "✓"
+  },
+  {
+    "question": "Lý do gì khiến quân nhân tại đặc khu Phú Quốc phải bỏ phiếu sớm hơn ngày bầu cử chính thức?",
+    "reference": "Lữ đoàn 127, Vùng 5 Hải quân tổ chức bầu cử sớm vì đặc thù nhiệm vụ huấn luyện và làm nhiệm vụ dài ngày trên biển, khiến cán bộ chiến sĩ không thể tham gia bầu cử đúng ngày. Việc tổ chức sớm nhằm đảm bảo mọi quân nhân được thực hiện đầy đủ quyền và nghĩa vụ công dân trong cuộc bầu cử đại biểu Quốc hội khóa XVI.",
+    "prediction": "Lý do quân nhân tại đặc khu Phú Quốc phải bỏ phiếu sớm hơn ngày bầu cử chính thức là do họ có nhiệm vụ huấn luyện, sẵn sàng chiến đấu và làm nhiệm vụ dài ngày trên biển, không thể rời đơn vị để tham gia bầu cử vào ngày bầu cử chính thức.\n\nTheo báo của Phú Quốc và Bạn, lữ đoàn 127, vùng 5 hải quân đã tổ chức bầu cử sớm đại biểu quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031 cho cán bộ, chiến sĩ trong đơn vị. Việc tổ chức bầu cử sớm nhằm bảo đảm mọi quân nhân được thực hiện đầy đủ quyền và nghĩa vụ công dân.\n\nĐể biết thêm chi tiết về việc tổ chức bầu cử sớm, bạn vui lòng tham khảo bài viết: https://news.phuquocandyou.com/mot-don-vi-tai-dac-khu-phu-quoc-to-chuc-bau-cu-som/",
+    "rouge_l": 0.461,
+    "sem_sim": 0.839,
+    "flag": "✓"
+  },
+  {
+    "question": "Hãng hàng không nào mở đường bay thẳng Nha Trang – Phú Quốc và lịch bay như thế nào?",
+    "reference": "Sun PhuQuoc Airways khai thác đường bay thẳng này từ ngày 15/3/2026, với tần suất 4 chuyến mỗi tuần. Thời gian bay chỉ khoảng 1 giờ 20 phút, giúp kết nối trực tiếp hai trung tâm du lịch biển lớn mà trước đây hành khách phải quá cảnh qua Hà Nội hoặc TP HCM.",
+    "prediction": "Hãng hàng không Sun Phu Quoc Airways đã mở đường bay thẳng giữa Nha Trang và Phú Quốc. Chuyến bay đầu tiên của Sun Phu Quoc Airways từ cảng hàng không quốc tế Phú Quốc đã hạ cánh tại cảng hàng không quốc tế Nha Trang vào ngày 15/3/2026 lúc 15h40. Đây là đường bay thẳng duy nhất kết nối hai thủ phủ du lịch Nha Trang và Phú Quốc.\n\nChi tiết lịch bay và thông tin về hãng hàng không Sun Phu Quoc Airways có thể tham khảo tại bài viết: https://news.phuquocandyou.com/duong-bay-thang-duy-nhat-ket-noi-hai-thu-phu-du-lich-nha-trang-phu-quoc/",
+    "rouge_l": 0.246,
+    "sem_sim": 0.707,
+    "flag": "✓"
+  },
+  {
+    "question": "Tình trạng thiếu nhiên liệu tại các công trình phục vụ APEC 2027 ở Phú Quốc nghiêm trọng đến mức nào?",
+    "reference": "Tình trạng rất nghiêm trọng: lượng dầu diesel được cung ứng chỉ đáp ứng khoảng 10% nhu cầu thực tế, khiến nhiều nhà thầu phải cắt giảm tới 60% máy móc. Công trường rơi vào tình trạng thi công cầm chừng, nhà thầu phải đi mua gom lẻ từng lít nhiên liệu để duy trì các hạng mục thiết yếu.",
+    "prediction": "Tình trạng thiếu nhiên liệu tại các công trình phục vụ APEC 2027 ở Phú Quốc không được mô tả cụ thể trong các tin tức có sẵn, nhưng Thủ tướng đã ban hành chỉ đạo hỏa tốc yêu cầu các đơn vị liên quan phải chủ động triển khai mọi biện pháp để bảo đảm nguồn cung xăng dầu ổn định, tuyệt đối không để xảy ra tình trạng thiếu hụt năng lượng. Điều này cho thấy sự quan tâm và lo ngại của Chính phủ về vấn đề này.\n\nLink tin: https://news.phuquocandyou.com/thu-tuong-chi-dao-hoa-toc-khong-de-thieu-nang-luong-cho-dai-cong-truong-apec-phu-quoc/",
+    "rouge_l": 0.278,
+    "sem_sim": 0.526,
+    "flag": "⚠"
+  },
+  {
+    "question": "Tại sao bất động sản sở hữu lâu dài ở Phú Quốc lại khan hiếm và dự án nào được xem là giải pháp cho vấn đề này?",
+    "reference": "Đất sở hữu lâu dài chỉ chiếm khoảng 6% tổng quỹ đất Phú Quốc vì khoảng 70% diện tích đảo được bảo tồn cho rừng nguyên sinh và hệ sinh thái. Meyhomes Capital Phú Quốc với quy mô hơn 300 ha được xem là dự án hiếm hoi nằm trong quỹ đất 6% này, đóng vai trò giải quyết bài toán khan hiếm nguồn cung sở hữu lâu dài trên đảo.",
+    "prediction": "Bất động sản sở hữu lâu dài ở Phú Quốc đang khan hiếm vì nhu cầu ngày càng gia tăng, cùng với sự bứt phá của kinh tế và du lịch tại địa phương, trong khi quỹ đất sở hữu lâu dài ở đây lại cực kỳ hạn chế (link: https://news.phuquocandyou.com/loi-giai-cho-bai-toan-khan-hiem-bds-bien-so-huu-lau-dai-tai-phu-quoc/).",
+    "rouge_l": 0.34,
+    "sem_sim": 0.633,
+    "flag": "✓"
+  },
+  {
+    "question": "Ẩm thực làng chài ở Phú Quốc có ý nghĩa gì ngoài việc là món ăn đơn thuần?",
+    "reference": "Ẩm thực làng chài tại Phú Quốc không chỉ mang giá trị ẩm thực mà còn phản ánh văn hóa và tập quán sinh sống lâu đời của cư dân biển. Đây là một phần bản sắc độc đáo giúp Phú Quốc tạo dấu ấn riêng so với các điểm đến du lịch biển khác.",
+    "prediction": "Ẩm thực làng chài ở Phú Quốc không chỉ là món ăn đơn thuần mà còn mang ý nghĩa văn hóa, tập quán sinh sống lâu đời của cư dân biển thành phố đảo Phú Quốc. Đây còn phản ánh văn hóa, tập quán sinh sống lâu đời của cư dân biển Phú Quốc. Bạn có thể đọc thêm về \" Ẩm thực và văn hóa làng chài – dấu ấn riêng của Phú Quốc\" tại đây: https://news.phuquocandyou.com/am-thuc-va-van-hoa-lang-chai-dau-an-rieng-cua-phu-quoc/",
+    "rouge_l": 0.514,
+    "sem_sim": 0.898,
+    "flag": "✓"
+  },
+  {
+    "question": "Phú Quốc phát triển du lịch mạnh mẽ nhưng đời sống người dân địa phương có thay đổi hoàn toàn không?",
+    "reference": "Dù du lịch phát triển mạnh mẽ, Phú Quốc vẫn giữ được nhiều nét sinh hoạt truyền thống trong đời sống hàng ngày của người dân địa phương. Đây là điểm cân bằng giữa hiện đại hóa và bảo tồn bản sắc vùng đảo.",
+    "prediction": "Mặc dù Phú Quốc phát triển du lịch mạnh mẽ, nhưng đời sống người dân địa phương vẫn giữ được những nét truyền thống trong nhịp sống hàng ngày. Người dân địa phương vẫn gắn liền với biển cả và những chuyến ra khơi mỗi ngày như trong văn hóa làng chài ven biển. Điều này cho thấy Phú Quốc vẫn giữ được sự đa dạng và phong phú trong văn hóa và lối sống của người dân.\n\nThông tin thêm: Nét sinh hoạt đời thường của người dân Phú Quốc trong nhịp sống hiện đại | https://news.phuquocandyou.com/net-sinh-hoat-doi-thuong-cua-nguoi-dan-phu-quoc-trong-nhip-song-hien-dai/",
+    "rouge_l": 0.382,
+    "sem_sim": 0.851,
+    "flag": "✓"
+  },
+  {
+    "question": "Địa phương đang làm gì để gìn giữ những lễ hội dân gian của ngư dân Phú Quốc?",
+    "reference": "Nhiều lễ hội dân gian gắn với đời sống ngư dân Phú Quốc đang được chính quyền địa phương quan tâm phục dựng. Hoạt động này góp phần giữ gìn bản sắc văn hóa biển đảo và tạo thêm sản phẩm du lịch văn hóa đặc sắc cho hòn đảo.",
+    "prediction": "Địa phương đang làm việc để phục dựng và bảo tồn nhiều lễ hội dân gian gắn với đời sống ngư dân Phú Quốc, góp phần giữ gìn bản sắc văn hóa biển đảo. Điều này được thể hiện qua việc nhiều lễ hội dân gian đang được quan tâm và bảo tồn, giúp giữ gìn truyền thống vàCulture văn hóa của người dân địa phương.\n\nĐể biết thêm, vui lòng truy cập: https://news.phuquocandyou.com/le-hoi-truyen-thong-cua-ngu-dan-phu-quoc-duoc-phuc-dung-va-bao-ton/",
+    "rouge_l": 0.434,
+    "sem_sim": 0.867,
+    "flag": "✓"
+  },
+  {
+    "question": "Du khách cần lưu ý những rủi ro gì khi đến Phú Quốc vào mùa cao điểm?",
+    "reference": "Mùa cao điểm tại Phú Quốc tiềm ẩn các rủi ro về giá cả bị đẩy cao, chất lượng dịch vụ không đồng đều và vấn đề an ninh. Du khách cần chuẩn bị kỹ lưỡng về lịch trình, đặt chỗ trước và tìm hiểu mức giá chuẩn để tránh bị thiệt thòi trong mùa du lịch đông đúc.",
+    "prediction": "Khi đến Phú Quốc vào mùa cao điểm, du khách cần lưu ý những rủi ro như:\n\n- Giá cả cao hơn so với mùa thấp điểm, có thể tiềm ẩn tình trạng \"chặt chém\",\n- Sự đông đúc và ồn ào có thể gây ra tình trạng tắc đường và khó di chuyển,\n- Sự gia tăng khách du lịch có thể góp phần làm tăng nguy cơ vi phạm an ninh trật tự,\n- Cần phải lựa chọn những cơ sở lưu trú, dịch vụ ăn uống uy tín và chất lượng cao.\n\nChọn đọc thêm Kinh nghiệm du lịch Phú Quốc mùa cao điểm: đi sao cho tiết kiệm và an toàn | https://news.phuquocandyou.com/kinh-nghiem-du-lich-phu-quoc-mua-cao-diem-di-sao-cho-tiet-kiem-va-an-toan/",
+    "rouge_l": 0.304,
+    "sem_sim": 0.905,
+    "flag": "✓"
+  },
+  {
+    "question": "Làm thế nào để tham quan các điểm nổi tiếng ở Phú Quốc mà vẫn có không gian yên tĩnh?",
+    "reference": "Bí quyết là sắp xếp thời gian tham quan hợp lý, tránh khung giờ cao điểm đông đúc. Nếu biết cách lựa chọn thời điểm thích hợp trong ngày, du khách vẫn có thể tận hưởng không gian yên tĩnh và chụp được những bức ảnh đẹp tại các địa điểm nổi tiếng.",
+    "prediction": "Để tham quan các điểm nổi tiếng ở Phú Quốc mà vẫn có không gian yên tĩnh, bạn có thể sắp xếp thời gian hợp lý và tránh giờ cao điểm. Việc đến các điểm du lịch vào buổi chiều hoặc buổi sáng sớm có thể giúp bạn tránh được đông người và có trải nghiệm yên tĩnh hơn.\n\nNgoài ra, bạn cũng có thể tham khảo các đánh giá và hướng dẫn từ các du khách đã từng đến Phú Quốc để tìm các cách thức khác nhau để tránh đông người và tìm đến các điểm du lịch yên tĩnh.\n\nĐọc thêm tại: https://news.phuquocandyou.com/kinh-nghiem-tham-quan-cac-diem-noi-tieng-o-phu-quoc-ma-khong-qua-dong-nguoi/",
+    "rouge_l": 0.367,
+    "sem_sim": 0.671,
+    "flag": "✓"
+  },
+  {
+    "question": "Làm thế nào để ăn uống ở Phú Quốc ngon mà không tốn quá nhiều tiền?",
+    "reference": "Du khách nên tránh các quán ăn hướng đến khách du lịch với giá cao nhưng chất lượng không tương xứng. Cách tốt nhất là tham khảo kinh nghiệm thực tế từ người đã đi, ưu tiên các quán quen của người địa phương và hỏi rõ giá trước khi gọi món.",
+    "prediction": "Để ăn uống ở Phú Quốc ngon mà không tốn quá nhiều tiền, bạn nên tìm hiểu và trải nghiệm các món ăn địa phương như bún quậy Phú Quốc (https://news.phuquocandyou.com/bun-quay-phu-quoc-tu-mon-an-dia-phuong-den-dac-san-quoc-dan/). Bạn cũng có thể tự nấu ăn tại nhà để tiết kiệm chi phí và thưởng thức các món ăn bình dị nhưng ngon miệng.\n\nNgoài ra, nếu không muốn bị \"chặt chém\" tại các địa điểm du lịch, bạn nên tìm hiểu và tham khảo các kinh nghiệm ăn uống thực tế tại Phú Quốc (https://news.phuquocandyou.com/kinh-nghiem-an-uong-o-phu-quoc-nen-an-gi-o-dau-de-khong-bi-chat-chem/).\n\nHy vọng những thông tin này sẽ giúp bạn có một chuyến du lịch Phú Quốc vừa ngon vừa túi tiền!",
+    "rouge_l": 0.274,
+    "sem_sim": 0.399,
+    "flag": "⚠"
+  },
+  {
+    "question": "Khi đặt chỗ lưu trú ở Phú Quốc, việc chọn khu vực ảnh hưởng đến chuyến đi như thế nào?",
+    "reference": "Việc chọn sai khu vực lưu trú có thể ảnh hưởng lớn đến trải nghiệm toàn bộ chuyến đi. Ở trung tâm thuận tiện di chuyển và mua sắm, trong khi resort ven biển mang lại không gian nghỉ dưỡng yên tĩnh hơn nhưng xa các tiện ích — lựa chọn phụ thuộc vào nhu cầu và ngân sách của từng du khách.",
+    "prediction": "Khi đặt chỗ lưu trú ở Phú Quốc, việc chọn khu vực ảnh hưởng lớn đến chuyến đi của bạn. Chọn khu vực trung tâm có thể giúp bạn đến được các điểm du lịch nổi tiếng nhanh chóng và thuận tiện, đồng thời cũng có nhiều lựa chọn về ăn uống và dịch vụ. Tuy nhiên, nếu bạn muốn trải nghiệm một không gian yên bình và gần gũi với biển cả, thì chọn resort ven biển là lựa chọn tốt hơn. Hãy tham khảo bài viết sau để có được kinh nghiệm chọn khách sạn phù hợp với nhu cầu và ngân sách của bạn:\n\nhttps://news.phuquocandyou.com/kinh-nghiem-chon-khach-san-o-phu-quoc-nen-o-trung-tam-hay-resort-ven-bien/",
+    "rouge_l": 0.364,
+    "sem_sim": 0.72,
+    "flag": "✓"
+  },
+  {
+    "question": "Người lần đầu đến Phú Quốc tự túc cần chuẩn bị những gì để tránh tốn kém và bỏ lỡ trải nghiệm hay?",
+    "reference": "Người đi lần đầu cần chuẩn bị kỹ về phương tiện di chuyển, lựa chọn lưu trú phù hợp ngân sách và lên lịch trình hợp lý. Việc tìm hiểu trước về giá cả, địa điểm ăn uống và các điểm tham quan sẽ giúp tiết kiệm chi phí và tận dụng tối đa thời gian trên đảo.",
+    "prediction": "Người lần đầu đến Phú Quốc tự túc cần chuẩn bị kỹ để tránh tốn kém và bỏ lỡ trải nghiệm hay. Để đảm bảo một chuyến đi thuận lợi và trọn vẹn, bạn nên chuẩn bị những điều sau: tìm hiểu thông tin về đảo Phú Quốc, bao gồm thời tiết, đường đi, lưu trú, và lịch trình phù hợp cho người đi lần đầu; chuẩn bị kinh phí phù hợp để tránh tốn kém; chọn lựa nhà lưu trú, nhà hàng và phương tiện đi lại phù hợp; và cuối cùng là tìm hiểu thông tin về các hoạt động, du lịch tại đảo Phú Quốc.\n\nKinh nghiệm du lịch Phú Quốc tự túc năm 2026 cho người đi lần đầu: https://news.phuquocandyou.com/kinh-nghiem-du-lich-phu-quoc-tu-tuc-nam-2026-cho-nguoi-di-lan-dau/",
+    "rouge_l": 0.331,
+    "sem_sim": 0.701,
+    "flag": "✓"
+  },
+  {
+    "question": "Điều gì làm nên hương vị đặc biệt của nước mắm Phú Quốc và sản phẩm này được tiêu thụ ở đâu?",
+    "reference": "Nước mắm Phú Quốc có hương vị đậm đà và độ đạm cao nhờ phương pháp ủ chượp cá cơm truyền thống trong thùng gỗ lớn suốt 12-15 tháng. Sản phẩm không chỉ tiêu thụ trong nước mà còn được xuất khẩu sang nhiều thị trường quốc tế, trở thành món quà đặc trưng du khách thường mua về.",
+    "prediction": "Nước mắm Phú Quốc có hương vị đặc biệt do được ủ chượp cá cơm với thùng gỗ lớn suốt 12–15 tháng, giúp sản phẩm có độ đạm cao và hương vị đậm đà. Hiện nay, nước mắm Phú Quốc được xuất khẩu sang nhiều thị trường quốc tế và được người tiêu dùng trong nước ưa chuộng. Theo nhiều người dùng, nước mắm Phú Quốc có vị mặn đặc trưng, giúp món ăn thêm đậm đà và hương thơm đặc biệt.\n\nNguồn: https://news.phuquocandyou.com/nuoc-mam-phu-quoc-tinh-hoa-am-thuc-gan-voi-di-san-lang-nghe/",
+    "rouge_l": 0.496,
+    "sem_sim": 0.893,
+    "flag": "✓"
+  },
+  {
+    "question": "Hải sản đặc trưng nào của Phú Quốc thu hút du khách và nhà hàng đang cải thiện dịch vụ theo hướng nào?",
+    "reference": "Những loại hải sản đặc trưng thu hút du khách gồm ghẹ Hàm Ninh, nhum biển và còi biên mai. Năm 2026, nhiều nhà hàng tại Dương Đông, Bãi Khem và Bãi Sao đã cải thiện dịch vụ bằng cách áp dụng niêm yết giá công khai, chế biến theo yêu cầu và đảm bảo vệ sinh an toàn thực phẩm.",
+    "prediction": "Hải sản đặc trưng của Phú Quốc thu hút du khách bao gồm ghẹ hàm ninh, nhum biển và còi biên mai. Để đáp ứng nhu cầu của du khách, nhiều nhà hàng hải sản tại Phú Quốc đã áp dụng niêm yết giá công khai, chế biến theo yêu cầu và đảm bảo vệ sinh an toàn thực phẩm.\n\nMục tiêu của các nhà hàng này là nâng tầm trải nghiệm ăn uống tại Phú Quốc bằng cách kết hợp ẩm thực với không gian biển. Các sản phẩm hải sản tươi sống được sử dụng là điểm nhấn thu hút du khách.\n\nChi tiết: https://news.phuquocandyou.com/hai-san-phu-quoc-2026-tuoi-song-gia-minh-bach-trai-nghiem-nang-tam/",
+    "rouge_l": 0.481,
+    "sem_sim": 0.772,
+    "flag": "✓"
+  },
+  {
+    "question": "Điểm độc đáo của bún quậy Phú Quốc so với các loại bún khác ở Việt Nam là gì?",
+    "reference": "Bún quậy Phú Quốc nổi bật với cách thưởng thức độc đáo: thực khách tự quậy nước chấm từ muối, ớt, tắc và tiêu ngay tại bàn. Sợi bún tươi kết hợp chả tôm và chả cá xay trực tiếp tạo nên hương vị hoàn toàn khác biệt so với bún truyền thống ở đất liền.",
+    "prediction": "Điểm độc đáo của bún quậy Phú Quốc so với các loại bún khác ở Việt Nam là cách ăn \"tự quậy\" nước chấm từ muối, ớt, tắc và tiêu.\n\nNgoài ra, sợi bún tươi và chả tôm - chả cá xay trực tiếp tạo nên hương vị đặc trưng và khác biệt hoàn toàn với bún truyền thống ở đất liền.\n\nThông tin chi tiết về bún quậy Phú Quốc tại đây: https://news.phuquocandyou.com/bun-quay-phu-quoc-tu-mon-an-dia-phuong-den-dac-san-quoc-dan/",
+    "rouge_l": 0.611,
+    "sem_sim": 0.808,
+    "flag": "✓"
+  },
+  {
+    "question": "Các khách sạn tại Phú Quốc đang thay đổi như thế nào để đáp ứng xu hướng du lịch bền vững?",
+    "reference": "Nhiều khách sạn và resort tại Phú Quốc đã chuyển sang mô hình lưu trú xanh bằng cách sử dụng vật liệu thân thiện môi trường, loại bỏ đồ dùng nhựa một lần, lắp hệ thống điện năng lượng mặt trời và tăng cường phân loại rác tại nguồn. Hướng đi này được du khách quốc tế ủng hộ và giúp nâng cao hình ảnh du lịch đảo ngọc.",
+    "prediction": "Theo đuổi xu hướng du lịch bền vững, nhiều khách sạn tại Phú Quốc đã bắt đầu thay đổi để giảm thiểu tác động xấu đến môi trường. Họ đang áp dụng các giải pháp như sử dụng vật liệu thân thiện môi trường, thay thế đồ dùng nhựa dùng một lần và triển khai hệ thống điện năng lượng mặt trời.\n\nKhách sạn và resort tại Phú Quốc cũng đang chuyển đổi sang mô hình lưu trú xanh, giảm thiểu rác thải nhựa và tiết kiệm năng lượng. Điều này không chỉ giúp bảo vệ môi trường mà còn đáp ứng nhu cầu của du khách trong xu hướng du lịch xanh ngày càng trở nên phổ biến.\n\nMột số ví dụ cụ thể bao gồm:\n- Sử dụng vật liệu tự nhiên và giảm nhựa dùng một lần [2].\n- Triển khai hệ thống điện năng lượng mặt trời [1].\n\nĐể biết thêm thông tin, xin vui lòng xem: \nhttps://news.phuquocandyou.com/khach-san-phu-quoc-day-manh-mo-hinh-luu-tru-xanh-than-thien-moi-truong/\nhttps://news.phuquocandyou.com/khach-san-va-resort-tai-phu-quoc-xu-huong-nghi-duong-xanh-len-ngoi-nam-2026/",
+    "rouge_l": 0.393,
+    "sem_sim": 0.87,
+    "flag": "✓"
+  },
+  {
+    "question": "Tình hình lấp đầy phòng khách sạn tại Phú Quốc trong mùa hè 2026 ra sao và khách từ đâu đến nhiều nhất?",
+    "reference": "Công suất phòng khách sạn trong tháng 6-7/2026 đạt mức 70-85%, cao hơn cùng kỳ năm trước. Khách quốc tế quay lại mạnh, trong đó khách Hàn Quốc, Ấn Độ và châu Âu chiếm tỷ lệ đáng kể tại phân khúc khách sạn 4-5 sao ven biển.",
+    "prediction": "Tình hình lấp đầy phòng khách sạn tại Phú Quốc trong mùa hè 2026 rất tốt, với công suất phòng đạt mức 70-85%. Các khu vực tập trung nhiều khách sạn như Dương Đông, Bãi Trường và An Thới tiếp tục là lựa chọn ưa tiên của du khách. \n\nKhách quốc tế chiếm ưu thế, với khoảng 65% lượng đặt tour, chủ yếu từ các thị trường truyền thống như Hàn Quốc, Trung Quốc và một số nước châu Âu.",
+    "rouge_l": 0.34,
+    "sem_sim": 0.75,
+    "flag": "✓"
+  },
+  {
+    "question": "Yếu tố nào giúp Bãi Trường trở thành trung tâm nghỉ dưỡng hàng đầu tại Phú Quốc?",
+    "reference": "Bãi Trường có lợi thế bờ biển dài và vị trí gần sân bay quốc tế Phú Quốc, tạo điều kiện thuận lợi cho việc phát triển hệ thống resort và các dịch vụ du lịch. Đây là khu vực tập trung nhiều cơ sở lưu trú cao cấp và là lựa chọn ưu tiên của nhiều du khách khi đến đảo ngọc.",
+    "prediction": "Theo thông tin đã được cung cấp, Bãi Trường Phú Quốc trở thành trung tâm phát triển mạnh các dịch vụ du lịch nghỉ dưỡng nhờ vào vị trí thuận lợi nằm gần sân bay và bờ biển dài. Vị trí này giúp cho khu vực này trở thành trung tâm hoạt động chính của Phú Quốc trong lĩnh vực du lịch.\n\nVới bờ biển dài và vị trí gần sân bay, Bãi Trường đã trở thành điểm đến lý tưởng cho khách du lịch, từ đó phát triển mạnh mẽ các dịch vụ du lịch nghỉ dưỡng.\n\nĐể biết thêm thông tin về Bãi Trường Phú Quốc và những lý do khác giúp khu vực này trở thành trung tâm nghỉ dưỡng hàng đầu tại Phú Quốc, bạn có thể đọc thêm bài viết tại đây: https://news.phuquocandyou.com/bai-truong-phu-quoc-khu-vuc-phat-trien-manh-cac-dich-vu-du-lich-nghi-duong/.",
+    "rouge_l": 0.302,
+    "sem_sim": 0.814,
+    "flag": "✓"
+  },
+  {
+    "question": "Dinh Cậu có ý nghĩa gì đối với người dân và du khách đến Phú Quốc?",
+    "reference": "Dinh Cậu là địa điểm tâm linh nổi tiếng tại Phú Quốc, nơi người dân địa phương và du khách thường đến cầu bình an trước mỗi chuyến ra khơi. Đây vừa là điểm tham quan văn hóa vừa phản ánh tín ngưỡng truyền thống của cư dân ngư nghiệp trên đảo.",
+    "prediction": "Dinh Cậu là một trong những địa điểm tâm linh nổi tiếng ở Phú Quốc, nơi người dân và du khách có thể cầu bình an mỗi khi ra khơi. Địa điểm này đóng một vai trò quan trọng trong đời sống ngư dân Phú Quốc và vẫn thu hút nhiều khách du lịch đến thăm.\n\nTheo thông tin được đưa ra, Dinh Cậu mang đến một không gian yên bình và thanh tĩnh, giúp du khách cảm nhận được tinh thần và cảm xúc chân thực trong từng khoảnh khắc. Nếu bạn đang tìm kiếm một trải nghiệm tâm linh đặc biệt tại Phú Quốc, Dinh Cậu là một đích đến lý tưởng.\n\nXem thêm tại: https://news.phuquocandyou.com/dinh-cau-diem-tham-quan-tam-linh-gan-lien-voi-doi-song-ngu-dan-phu-quoc/",
+    "rouge_l": 0.4,
+    "sem_sim": 0.905,
+    "flag": "✓"
+  },
+  {
+    "question": "Điều gì khiến Bãi Ông Lang khác biệt so với các bãi biển nổi tiếng khác ở Phú Quốc?",
+    "reference": "Bãi Ông Lang mang lại không gian yên bình và chậm rãi, khác với sự sôi động của Bãi Sao hay sự đông đúc của Dương Đông. Nơi đây đặc biệt phù hợp để ngắm hoàng hôn và tìm kiếm sự nghỉ ngơi thực sự, thu hút những du khách muốn thoát khỏi nhịp sống ồn ào của các khu du lịch lớn.",
+    "prediction": "Bãi Ông Lang khác biệt so với các bãi biển nổi tiếng khác ở Phú Quốc bởi không khí yên bình và chậm rãi. Không có tiếng còi xe hoặc âm thanh ồn ào như ở bãi sao, mà chỉ có gió biển và mùi mặn quen thuộc của đảo. Buổi chiều ở đây bắt đầu bằng những con sóng nhỏ vỗ nhẹ vào bờ cát vàng, tạo ra một không khí thư thái và lãng mạn.\n\nBạn có thể xem thêm chi tiết tại: https://news.phuquocandyou.com/mot-buoi-chieu-lang-o-bai-bien-ong-lang/",
+    "rouge_l": 0.351,
+    "sem_sim": 0.612,
+    "flag": "✓"
+  },
+  {
+    "question": "Thị trường khách quốc tế nào đang đóng vai trò chính trong tăng trưởng du lịch Phú Quốc đầu năm 2026?",
+    "reference": "Thị trường châu Á, đặc biệt là Hàn Quốc, Trung Quốc và các nước Đông Nam Á, tiếp tục dẫn đầu lượng khách quốc tế đến Phú Quốc. Chính sách visa thuận lợi cùng việc duy trì các đường bay thẳng là hai yếu tố then chốt giúp giữ vững sức hút với du khách nước ngoài.",
+    "prediction": "Theo ghi nhận từ ngành du lịch địa phương, thị trường khách quốc tế đóng vai trò chủ lực trong tăng trưởng du lịch Phú Quốc đầu năm 2026, đặc biệt là từ các thị trường châu Á như Hàn Quốc, Trung Quốc và Đông Nam Á.\n\nViệc duy trì các đường bay thẳng và chính sách visa thuận lợi đã giúp Phú Quốc giữ được sức hút đối với du khách quốc tế. Bên cạnh đó, các sản phẩm du lịch đa dạng từ nghỉ dưỡng, vui chơi giải trí đến khám phá thiên nhiên và văn hóa địa phương góp phần kéo dài thời gian lưu trú.\n\nBạn có thể đọc thêm thông tin chi tiết tại link: https://news.phuquocandyou.com/khach-quoc-te-den-phu-quoc-nam-2026-thi-truong-chau-a-tiep-tuc-giu-vai-tro-chu-luc/",
+    "rouge_l": 0.326,
+    "sem_sim": 0.84,
+    "flag": "✓"
+  },
+  {
+    "question": "Phú Quốc đang tổ chức các hoạt động du lịch sinh thái như thế nào để bảo vệ môi trường biển?",
+    "reference": "Các tour lặn ngắm san hô, tham quan đảo và chèo kayak được tổ chức với quy mô có kiểm soát, giới hạn số lượng khách để giảm tác động đến hệ sinh thái. Nhiều đơn vị lữ hành khuyến khích du khách dùng sản phẩm thân thiện môi trường và hạn chế rác thải nhựa trong suốt hành trình.",
+    "prediction": "Phú Quốc đang tổ chức các hoạt động du lịch sinh thái với hướng dẫn hạn chế tác động đến hệ sinh thái, bao gồm lặn ngắm san hô, tham quan đảo nhỏ và chèo kayak với quy mô vừa phải có sự kiểm soát chặt chẽ về số lượng khách. Nhiều đơn vị lữ hành khuyến khích du khách sử dụng các sản phẩm thân thiện với môi trường.\n\nXem thêm thông tin tại: https://news.phuquocandyou.com/du-lich-bien-dao-phu-quoc-2026-trai-nghiem-xanh-duoc-du-khach-quoc-te-ua-chuong/",
+    "rouge_l": 0.513,
+    "sem_sim": 0.788,
+    "flag": "✓"
+  },
+  {
+    "question": "Phú Quốc đã chuẩn bị những gì về hạ tầng giao thông để đón mùa cao điểm du lịch năm 2026?",
+    "reference": "Các tuyến đường kết nối sân bay, khu nghỉ dưỡng và khu dân cư tại Bãi Trường và trung tâm Dương Đông đã được cải tạo và mở rộng để giảm ùn tắc trong khung giờ cao điểm. Hệ thống xe buýt và phương tiện vận chuyển du lịch cũng được tổ chức lại theo hướng thuận tiện hơn cho du khách.",
+    "prediction": "Để đón mùa cao điểm du lịch năm 2026, Phú Quốc đã chuẩn bị các hạng mục hạ tầng giao thông để đáp ứng lượng khách ngày càng tăng. Cụ thể, các tuyến đường kết nối sân bay, khu nghỉ dưỡng và khu dân cư tại khu vực Bãi Trường và Trung tâm Dương Đông đã được cải tạo và mở rộng nhằm giảm ùn tắc trong các khung giờ cao điểm. Đây là bước chuẩn bị quan trọng để phục vụ cho mùa du lịch cao điểm năm 2026.\n\nhttps://news.phuquocandyou.com/phu-quoc-chuan-bi-cho-mua-du-lich-cao-diem-2026-ha-tang-va-dich-vu-dong-loat-nang-cap/",
+    "rouge_l": 0.518,
+    "sem_sim": 0.723,
+    "flag": "✓"
+  },
+  {
+    "question": "Du khách có thể trải nghiệm văn hóa ngư dân truyền thống ở những khu vực nào tại Phú Quốc?",
+    "reference": "Du khách có thể tìm hiểu văn hóa làng chài tại các khu vực Hàm Ninh, Rạch Vẹm và An Thới, nơi nhịp sống ngư dân vẫn gắn liền với biển cả. Tại đây, du khách được khám phá nghề biển, tìm hiểu phong tục tập quán và tín ngưỡng thờ cá Ông — nét văn hóa đặc trưng của cư dân vùng biển.",
+    "prediction": "Du khách có thể trải nghiệm văn hóa ngư dân truyền thống ở các khu vực như Hàm Ninh, Rạch Vẹm và An Thới tại Phú Quốc. Tại đây, họ có thể tham gia vào các hoạt động như thăm quan làng chài ven biển, xem thuyền thúng, chợ cá sáng sớm, và tham gia vào những bữa cơm giản dị sau chuyến đánh bắt. Những hình ảnh này là một phần không thể thiếu trong đời sống vănultur của người dân đảo.\n\nXin vui lòng tham khảo thêm thông tin tại đường liên kết này: https://news.phuquocandyou.com/van-hoa-lang-chai-phu-quoc-net-dep-binh-di-giua-nhip-song-hien-dai/",
+    "rouge_l": 0.38,
+    "sem_sim": 0.897,
+    "flag": "✓"
+  },
+  {
+    "question": "Xu hướng phát triển khách sạn tại Phú Quốc đang thay đổi theo hướng nào và phân khúc nào đang nổi lên?",
+    "reference": "Thay vì chú trọng quy mô lớn, nhiều chủ đầu tư chuyển sang mô hình nghỉ dưỡng xanh, ưu tiên vật liệu tự nhiên và năng lượng tái tạo, đặc biệt tại Bãi Trường, Ông Lang và Gành Dầu. Song song đó, phân khúc khách sạn tầm trung và homestay cũng phát triển mạnh, phục vụ nhóm khách trẻ và gia đình.",
+    "prediction": "Xu hướng phát triển khách sạn tại Phú Quốc đang chuyển đổi sang mô hình nghỉ dưỡng xanh, thân thiện với môi trường và tập trung vào sự hài hòa với thiên nhiên. Mô hình này được triển khai bởi nhiều resort và khách sạn trên đảo, sử dụng vật liệu tự nhiên, giảm thiểu rác thải nhựa và tiết kiệm năng lượng. \n\nCùng với xu hướng này, phân khúc khách sạn 4-5 sao ven biển đang trở thành lựa chọn ưu tiên của du khách, đặc biệt là trong mùa du lịch hè 2026.",
+    "rouge_l": 0.352,
+    "sem_sim": 0.685,
+    "flag": "✓"
+  },
+  {
+    "question": "Bãi Ông Lang mang lại cảm giác gì cho du khách so với những khu vực biển sôi động khác trên đảo?",
+    "reference": "Bãi Ông Lang mang đến sự yên tĩnh và nhịp sống chậm rãi hiếm thấy, với những con sóng nhỏ, bờ cát vàng và không có tiếng ồn của hàng quán. Nhiều du khách chọn nơi đây để ngồi ngắm hoàng hôn và thư giãn thật sự, cảm nhận Phú Quốc theo nghĩa nghỉ ngơi đúng nghĩa.",
+    "prediction": "Bãi Ông Lang mang lại cảm giác chậm rãi và yên bình cho du khách, khác biệt với bãi biển sôi động như bãi Sao và Dương Đông. Trong buổi chiều, sóng nhỏ vỗ nhẹ vào bờ cát vàng, không có tiếng còi xe hoặc hàng quán ồn ào, chỉ có gió biển và mùi mặn quen thuộc của đảo.\n\nĐường dẫn: https://news.phuquocandyou.com/mot-buoi-chieu-lang-o-bai-bien-ong-lang/",
+    "rouge_l": 0.408,
+    "sem_sim": 0.826,
+    "flag": "✓"
+  },
+  {
+    "question": "Chính quyền Phú Quốc đang thực hiện những biện pháp cụ thể nào để bảo vệ môi trường biển trước mùa du lịch?",
+    "reference": "Các lực lượng chức năng phối hợp với doanh nghiệp du lịch và cộng đồng dân cư tổ chức thu gom rác thải ven biển và kiểm tra hoạt động xả thải của các cơ sở dịch vụ. Chính quyền cũng đẩy mạnh tuyên truyền nâng cao ý thức bảo vệ môi trường cho cả người dân địa phương lẫn du khách.",
+    "prediction": "Chính quyền Phú Quốc đang thực hiện nhiều biện pháp mạnh mẽ để bảo vệ môi trường biển trước mùa du lịch. Theo đó, các lực lượng chức năng đã phối hợp với chính quyền cơ sở, doanh nghiệp du lịch và cộng đồng dân cư tổ chức thu gom rác thải ven biển, kiểm tra hoạt động xả thải của các cơ sở dịch vụ và đẩy mạnh tuyên truyền nâng cao ý thức bảo vệ môi trường cho người dân [1].\n\nBên cạnh đó, các doanh nghiệp du lịch trên đảo cũng đã bắt đầu chuyển đổi sang mô hình lưu trú xanh, giảm thiểu rác thải nhựa và tiết kiệm năng lượng, áp dụng các giải pháp thân thiện môi trường như sử dụng vật liệu thân thiện môi trường, thay thế đồ dùng nhựa dùng một lần, triển khai hệ thống điện năng lượng mặt trời và tăng cường phân loại rác tại nguồn [2].\n\nCụ thể hơn, chính quyền Phú Quốc đã triển khai nhiều biện pháp để kiểm soát môi trường biển, bao gồm tổ chức thu gom rác thải ven biển, kiểm tra hoạt động xả thải của các cơ sở dịch vụ và đẩy mạnh tuyên truyền nâng cao ý thức bảo vệ môi trường cho người dân.\n\n Link tham khảo: [1] https://news.phuquocandyou.com/phu-quoc-tang-cuong-kiem-soat-moi-truong-bien-truoc-mua-du-lich-cao-diem/, [2] https://news.phuquocandyou.com/khach-san-phu-quoc-day-manh-mo-hinh-luu-tru-xanh-than-thien-moi-truong/",
+    "rouge_l": 0.37,
+    "sem_sim": 0.767,
+    "flag": "✓"
+  },
+  {
+    "question": "Các dự án hạ tầng đang được ưu tiên đầu tư tại Phú Quốc nhằm mục tiêu gì?",
+    "reference": "Các dự án tập trung vào nâng cấp giao thông, chỉnh trang đô thị, cải thiện hệ thống cấp thoát nước và xử lý môi trường. Mục tiêu không chỉ đáp ứng lượng khách ngày càng tăng mà còn hướng tới phát triển du lịch bền vững, hài hòa giữa tăng trưởng kinh tế và bảo vệ tài nguyên thiên nhiên của đảo.",
+    "prediction": "Các dự án hạ tầng trọng điểm tại TP Phú Quốc đang được đẩy nhanh tiến độ nhằm phục vụ nhu cầu phát triển kinh tế - du lịch trong giai đoạn tới. Mục tiêu của việc đầu tư hạ tầng là đáp ứng lượng khách ngày càng tăng và hướng đến phát triển du lịch bền vững, hài hòa giữa tăng trưởng kinh tế và bảo vệ tài nguyên thiên nhiên của đảo ngọc. Việc đầu tư hạ tầng có thể bao gồm nâng cấp giao thông, chỉnh trang đô thị, cải thiện hệ thống cấp thoát nước và xử lý môi trường.\n\nĐọc thêm về thông tin này: https://news.phuquocandyou.com/phu-quoc-day-nhanh-dau-ti-ha-tang-huong-den-phat-trien-du-lich-ben-vung/",
+    "rouge_l": 0.486,
+    "sem_sim": 0.826,
+    "flag": "✓"
+  },
+  {
+    "question": "Những yếu tố nào đang thúc đẩy tăng trưởng khách quốc tế đến Phú Quốc đầu năm 2026?",
+    "reference": "Việc mở rộng các đường bay quốc tế trực tiếp cùng chính sách kích cầu du lịch được đánh giá là hai yếu tố quan trọng giúp Phú Quốc thu hút du khách nước ngoài. Các thị trường truyền thống như Hàn Quốc, Trung Quốc và một số nước châu Âu tiếp tục duy trì lượng khách ổn định.",
+    "prediction": "Tôi có thông tin. Theo tôi biết, những yếu tố đang thúc đẩy tăng trưởng khách quốc tế đến Phú Quốc đầu năm 2026 bao gồm việc mở rộng các đường bay quốc tế trực tiếp và chính sách kích cầu du lịch. Đồng thời, việc duy trì các đường bay thẳng và chính sách visa thuận lợi cũng giúp Phú Quốc giữ được sức hút đối với du khách quốc tế. \n\nXem thêm tại: https://news.phuquocandyou.com/luong-khach-quoc-te-den-phu-quoc-tang-manh-du-lich-dao-ngoc-khoi-sac-dau-nam-2026/",
+    "rouge_l": 0.386,
+    "sem_sim": 0.833,
+    "flag": "✓"
+  },
+  {
+    "question": "Chính quyền Phú Quốc đang làm gì để ngăn chặn tình trạng chặt chém giá cả trong mùa du lịch cao điểm?",
+    "reference": "Các lực lượng chức năng tăng cường kiểm tra cơ sở lưu trú, dịch vụ ăn uống và vận chuyển du khách, đặc biệt xử lý nghiêm tình trạng nâng giá trái quy định. Chính quyền địa phương cũng phối hợp với doanh nghiệp du lịch để nâng cao ý thức phục vụ và xây dựng hình ảnh Phú Quốc là điểm đến an toàn, thân thiện.",
+    "prediction": "Chính quyền Phú Quốc đang triển khai nhiều biện pháp để ngăn chặn tình trạng chặt chém giá cả trong mùa du lịch cao điểm. Các lực lượng chức năng sẽ tăng cường kiểm tra các cơ sở lưu trú, dịch vụ ăn uống, vận chuyển khách du lịch để đảm bảo giá cả hợp lý và ngăn chặn tình trạng \"chặt chém\". Đồng thời, chính quyền địa phương cũng phối hợp với các doanh nghiệp và tổ chức để giám sát và kiểm soát giá cả, nhằm tạo điều kiện thuận lợi cho du khách.\n\nNguồn: https://news.phuquocandyou.com/phu-quoc-siet-chat-quan-ly-du-lich-dip-cao-diem-dam-bao-an-ninh-va-chat-luong-dich-vu/",
+    "rouge_l": 0.476,
+    "sem_sim": 0.734,
+    "flag": "✓"
+  },
+  {
+    "question": "Kết quả du lịch của đặc khu Phú Quốc trong 2 tháng đầu năm 2026 đạt được những con số ấn tượng nào?",
+    "reference": "Trong 2 tháng đầu năm 2026, đặc khu Phú Quốc đón hơn 2,2 triệu lượt khách, tăng 57,7% so với cùng kỳ, trong đó khách quốc tế tăng đặc biệt mạnh tới 86,4%. Tổng thu du lịch tỉnh An Giang đạt hơn 15.750 tỷ đồng, tăng gần 60%, với Phú Quốc đóng góp 85,7% tổng thu toàn tỉnh.",
+    "prediction": "Tôi không có thông tin về kết quả du lịch của đặc khu Phú Quốc trong 2 tháng đầu năm 2026. Tuy nhiên, tôi có thông tin về việc Phú Quốc đón hơn 1 triệu lượt khách trong mùa du lịch hè 2026, như đã được báo chí công bố. (https://news.phuquocandyou.com/phu-quoc-don-hon-1-trieu-luot-khach-trong-mua-du-lich-he-2026/)",
+    "rouge_l": 0.324,
+    "sem_sim": 0.708,
+    "flag": "✓"
+  }
+]
